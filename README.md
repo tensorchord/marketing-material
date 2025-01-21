@@ -2,6 +2,13 @@
 
 [Figma](https://www.figma.com/file/lMlKru8SgQG1u7AoW0k0sJ/ModelZ?type=design&node-id=955-11118&t=PvRGy6Gdp2taKwhV-0)
 
+
+## VectorChord
+
+![](./vectorchord/logo-light.svg)
+
+![](./vectorchord/logo-dark.svg)
+
 ## Logo
 
 ![](./logo/logo-light.svg)
